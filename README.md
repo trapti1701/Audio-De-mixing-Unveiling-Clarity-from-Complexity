@@ -5,4 +5,3 @@ The original song recordings got lost, so the only existing copies are these mix
 
 In this program, I reconstructed the original songs using FastICA to unmix the audio. Then re-scaled the umixed signals from -1 to 1 and used wave.file.write to write out the unmixed signals.
 
-Later, I plotted the time courses of the different unmixed songs as a result for the documentation.
